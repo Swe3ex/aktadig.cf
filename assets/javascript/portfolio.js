@@ -202,7 +202,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 
                     clearCursor();
 
-                    writeLine(["<i style='color: #F62459'>banned.xyz $$$</i>"], 120, 500, function () {
+                    writeLine(["<i style='color: #F62459'>nocap.cc $$$</i>"], 120, 500, function () {
 
                         timeouts.push(setTimeout(function () {
 
