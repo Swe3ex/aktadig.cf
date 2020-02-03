@@ -57,7 +57,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
 			
 			{
                 name: 'Fluffy',
-                link: '76561198383531550'
+                link: '76561198363761275'
             }
 		
 
