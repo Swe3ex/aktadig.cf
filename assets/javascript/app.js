@@ -23,7 +23,7 @@ var _app = function () {
 
     this.titleChanger = function (text, delay) {
         text = text ||
-            ['T o b i . ', 'Dipsy', 'Fluffy', 'z u c k s u ', 'banned.xyz' ];
+            ['T o b i . ', 'Dipsy', 'Fluffy', 'z u c k s u ', 'nocap.cc' ];
         delay = delay || 2000;
 
         var counter = 0;
